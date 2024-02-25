@@ -1,2 +1,2 @@
 # SLLOG
-Stramlit LangChain LlamaIndex OpenAI GPT
+Streamlit LangChain LlamaIndex OpenAI GPT
